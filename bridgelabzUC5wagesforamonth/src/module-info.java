@@ -1,0 +1,2 @@
+module bridgelabzUC5wagesforamonth {
+}

@@ -1,0 +1,2 @@
+module bridgelabzUC2calculateemployeewage {
+}
